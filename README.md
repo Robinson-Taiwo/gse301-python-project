@@ -29,4 +29,4 @@ It implements a simple console-based system for storing and analyzing student ac
 
 ## How to Run
 ```bash
-python student_analysis.py
+python3 student_analysis.py
